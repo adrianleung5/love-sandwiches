@@ -1,5 +1,6 @@
+ines (14 sloc) 506 Bytes
 import gspread
-from google.oauth2.service account import Credentials 
+from google.oauth2.service_account import Credentials
 
 SCOPE = [
     "https://www.googleapis.com/auth/spreadsheets",
